@@ -1,4 +1,4 @@
-# Steam Discord Bot
+# Basic Discord Steam Updates Bot
 
 A Discord bot that monitors Steam games for updates, tracks player counts, and sends notifications about game changes, prices, and releases.
 
