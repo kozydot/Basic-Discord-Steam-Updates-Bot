@@ -204,13 +204,3 @@ If you encounter issues:
 ## License
 
 This project is licensed under the MIT License - see the LICENSE file for details.
-
-## Acknowledgments
-
-- discord.py for Discord API wrapper
-- Steam Web API for game data
-- Contributors and testers
-
-## Support
-
-Need help? Create an issue or join our Discord server for support.
