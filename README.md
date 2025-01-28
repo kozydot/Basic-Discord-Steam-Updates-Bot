@@ -34,8 +34,8 @@ A Discord bot that monitors Steam games for updates, tracks player counts, and s
 
 1. **Clone the repository**
 ```bash
-git clone https://github.com/kozydot/steam-discord-bot.git
-cd steam-discord-bot
+git clone [https://github.com/kozydot/steam-discord-bot.git](https://github.com/kozydot/Basic-Discord-Steam-Updates-Bot.git)
+cd Basic-Discord-Steam-Updates-Bot
 ```
 
 2. **Create virtual environment (recommended)**
